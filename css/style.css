@@ -34,7 +34,8 @@ body{
 }
 
 .box-2{
-	width: 50%;
+	color:white;
+	width: 30%;
 	margin: auto;
 }
 .box{
@@ -43,6 +44,22 @@ body{
 }
 
 .box-4{
+	display: block;
+	margin: auto;
+}
+
+.box-5{
+	display: block;
+	margin: auto;
+}
+
+.box-6{
+	display: block;
+	margin: auto;
+}
+
+
+.box-7{
 	display: block;
 	margin: auto;
 }
